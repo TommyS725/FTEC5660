@@ -1,3 +1,4 @@
 [submodule "individual_project/ChatGPT-WM"]
 	path = individual_project/ChatGPT-WM
 	url = https://github.com/TommyS725/ChatGPT-WM.git
+	branch = main
