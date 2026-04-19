@@ -1,4 +1,4 @@
-# CUHK FTEC5660 Agentic AI for Business and FinTeh
+# CUHK FTEC5660 Agentic AI for Business and FinTech
 
 ## Shum Ching Chit, Tommy 1155159019
 
@@ -9,6 +9,8 @@
 1. [[HW1] Receipt Helper Agent](./homeworks/hw1/)
 2. [[HW2 - Part 1] CV Verify Agent using MCP](./homeworks/hw2/)
 3. [[HW2 - Part 2] Moltbook Agent](./homeworks/hw2/)
+4. [[HW4] Financial Analysis Agent](./homeworks/hw4/)
+
 
 ## Individual Project
 
