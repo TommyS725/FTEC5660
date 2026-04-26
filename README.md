@@ -16,3 +16,22 @@
 
 [Reproducibility Project - Working Memory Capacity of ChatGPT: An
 Empirical Study - Gong et al. (2024)](./individual_project/)
+
+## Group Project
+
+[Guardian anti-scam decision security agent](./group_project/) is included as a
+Git submodule from:
+
+https://github.com/TommyS725/FTEC5660-group-project.git
+
+After cloning this repository, initialize the submodule with:
+
+```bash
+git submodule update --init --recursive
+```
+
+Or clone everything in one command:
+
+```bash
+git clone --recurse-submodules https://github.com/TommyS725/FTEC5660.git
+```

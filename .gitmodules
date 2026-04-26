@@ -2,3 +2,6 @@
 	path = individual_project/ChatGPT-WM
 	url = https://github.com/TommyS725/ChatGPT-WM.git
 	branch = main
+[submodule "group_project"]
+	path = group_project
+	url = https://github.com/TommyS725/FTEC5660-group-project.git
