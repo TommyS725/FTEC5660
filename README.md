@@ -19,7 +19,7 @@ Empirical Study - Gong et al. (2024)](./individual_project/)
 
 ## Group Project
 
-[Guardian anti-scam decision security agent](./group_project/) is included as a
+**Guardian Anti-scam Decision Security Agent** is included as a
 Git submodule from:
 
 https://github.com/TommyS725/FTEC5660-group-project.git
